@@ -4,6 +4,6 @@
 	<project name="Oreoforidol3/android_device_alcatel_idol3" path="device/alcatel/idol3" remote="github" revision="lineage-15.0" />
 	<project name="Oreoforidol3/android_kernel_alcatel_msm8916" path="kernel/alcatel/msm8916" remote="github" revision="cm-14.1-new" />
 	<project name="Oreoforidol3/proprietary_vendor_alcatel" path="vendor/alcatel" remote="github" revision="lineage-15.0" />
-	<project name="LineageOS/android_device_qcom_common" path="device/qcom/common" remote="github" revision="cm-14.1" />
+	<project name="LineageOS/android_device_qcom_common" path="device/qcom/common" remote="github" revision="lineage-15.0" />
 
 </manifest>
